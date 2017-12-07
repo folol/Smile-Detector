@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="walla_colors">
+        <item>#2BA696</item>
+        <item>#22C5B1</item>
+    </string-array>
+
+    <string-array name="path">
+        <item>com.github.glomadrian.grav.generator.animation.PathAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.BallSizeAnimator</item>
+    </string-array>
+
+    <string-array name="BubbleAnimations">
+        <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+        <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+    </string-array>
+
+    <string-array name="red">
+        <item>#ba0303</item>
+        <item>#ff7878</item>
+        <item>#9e3535</item>
+        <item>#fd3939</item>
+    </string-array>
+
+    <string-array name="bubble">
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+
+    <!--<string-array name="bubble_two">-->
+        <!--<item>#41e5e5e5</item>-->
+        <!--<item>#18cecece</item>-->
+        <!--<item>#1b7b7b7</item>-->
+        <!--<item>#25a0a0a0</item>-->
+    <!--</string-array>-->
+
+
+</resources>
