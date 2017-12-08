@@ -1,2 +1,3 @@
 # Smile-Detector
-![Screen Shots](https://imgur.com/a/MLLCP)
+![Scren shots](/app/sample-orai-two.png?raw=true "One")
+![Scren shots](/app/sample-orai.png?raw=true "One")
